@@ -1,0 +1,9 @@
+# Optional signed Minecraft skin properties for Vargas.
+# Leave empty to use the default player skin.
+vargas:
+  skin:
+    texture: ""
+    signature: ""
+
+# Stamina uses the vanilla food bar (20 points).
+# Sprinting drains it; walking, standing and sneaking recover it.
